@@ -1,56 +1,57 @@
-nav a {
+nav a{
   color: white !important
 }
-
-#topLinks {
-  /* padding top ve bottom 15 vardı */
+#topLinks{
+  /* padding top ve bottom 15 vardı /
 
 }
+#topLinks a{
+margin-right:10px;
+font-size: 12px;
+font-weight: bold;
+text-align: center;
+justify-content: ce;
+}
 
-#topLinks a {
-  margin-right: 10px;
+#topLinks :nth-child(1){
+  margin-left:150px;
+}
+
+#topcontact a{
+  margin-right:3px;
+  margin-left:3px;
   font-size: 12px;
   font-weight: bold;
-  text-align: center;
+}
+#topcontact{
+  / padding top ve bottom 15 vardı /
 }
 
-#topLinks :nth-child(1) {
-  margin-left: 150px;
-}
-
-#topcontact a {
-  margin-right: 3px;
-  margin-left: 3px;
-  font-size: 12px;
-  font-weight: bold;
-}
-
-#topcontact {
-  /* padding top ve bottom 15 vardı */
-}
-
-#topmenu {
-  margin-top: 5px;
+#topmenu{
+  margin-top:5px;
   border: 1px solid gray;
-  margin-bottom: 5px;
-  padding-top: 15px;
-  /* buraya ekledk*/
-  padding-bottom: 15px;
+  margin-bottom:5px;
+  padding-top: 15px; / buraya ekledk*/
+  padding-bottom: 15px; 
+}
+#logosearch{
+  margin-bottom:10px;
+  margin-top:10px;
+}
+#toprightmenu a{
+font-weight: bold;
+text-align: center;
+margin-right:5px;
+font-size:14px;
+}
+#toprightmenu{
+margin-top:15px;
+text-align: right;
+}
+.card{
+ width: 190px;
+ height: 400px;
+ border-radius: 6px;
+ 
 }
 
-#logosearch {
-  margin-bottom: 10px;
-  margin-top: 10px;
-}
-
-#toprightmenu a {
-  font-weight: bold;
-  text-align: center;
-  margin-right: 5px;
-  font-size: 15px;
-}
-
-#toprightmenu {
-  margin-top: 5px;
-  text-align: right;
-}
